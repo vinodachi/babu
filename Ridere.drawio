@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" modified="2023-05-24T07:36:48.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wPXSYEqJBX2mz1aHMPY2" version="21.3.3" type="device">
+  <diagram name="Page-1" id="cYYJ0uNyx_UBgDpyAt9r">
+    <mxGraphModel dx="905" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FF99FF" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-28" value="Selecting Space To Park" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="210" y="355" width="220" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-13" target="uLUXu2nJfKH0ktOqO9T3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-13" target="uLUXu2nJfKH0ktOqO9T3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-13" value="RIDERE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-14" target="uLUXu2nJfKH0ktOqO9T3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-14" value="Transportation" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-16" target="uLUXu2nJfKH0ktOqO9T3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-16" value="Parking" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-18" target="uLUXu2nJfKH0ktOqO9T3-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-18" value="Cab&#39;s Logistics" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-22" target="uLUXu2nJfKH0ktOqO9T3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-22" value="Customer Book Slot" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="465" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-24" target="uLUXu2nJfKH0ktOqO9T3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-24" target="uLUXu2nJfKH0ktOqO9T3-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-24" value="Land Owner Has To Give Time Slot" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="465" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-30" target="uLUXu2nJfKH0ktOqO9T3-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-30" value="Driver Home Page" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="35" y="490" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174.95588235294133" y="670.0588235294117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-33" value="Accepted Driver" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="35" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.08;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="700" as="sourcePoint" />
+            <mxPoint x="85" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="86" y="701" />
+              <mxPoint x="86" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-41" value="Ride Start&#39;s" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="760" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-43" target="uLUXu2nJfKH0ktOqO9T3-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLUXu2nJfKH0ktOqO9T3-43" target="uLUXu2nJfKH0ktOqO9T3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-43" value="CC Camera" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="485" y="510" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-45" value="OTP &lt;br&gt;Verification" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="640" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uLUXu2nJfKH0ktOqO9T3-50" value="After Parking If They&amp;nbsp;&lt;br&gt;Need Byke" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="165" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
