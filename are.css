@@ -1,0 +1,74 @@
+.maincontainer{
+    background-color: #86d2f2;
+    height: 100vh;
+    
+    
+}
+.MaINHEADING{
+    font-family: Roboto;
+    font-weight: bold;
+    padding-top: 10px;
+    margin-left: 5%;
+}
+#stop{
+    width: 60px;
+    color: white;
+    background-color:#1f1d41;
+    margin-top: 40px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    margin-left: 20%;
+
+}
+ #readybutton{
+    width: 60px;
+    color: white;
+ background-color:#1f1d41;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    margin-left: 19%;
+}
+#gobutton{
+    width: 60px;
+    color: white;
+    background-color:#1f1d41;
+    margin-right: 10px;
+    margin-bottom: 40px;
+    border-radius: 5px; 
+    margin-left: 19%;
+}
+.signalcontainer{
+height: 200px;
+width: 80px;
+background-color: #1f1d41;
+border-radius: 30px;
+padding: 20px;
+margin-left: 1%;
+margin-top: 2%;
+}
+#stoplight{
+    background-color: #4b5069;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    margin-left: 5%;
+}
+#readylight{
+    background-color: #4b5069;
+    height: 40px;
+    width: 40px;
+    border-radius: 100px; 
+    margin-top: 40px;
+    margin-left: 5%;
+}
+#golight{
+    background-color: #4b5069;
+    height: 40px;
+    width: 40px;
+    border-radius: 100px; 
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 5%;
+}
